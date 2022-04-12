@@ -3,7 +3,6 @@ package com.company;
 public class Conditionals {
 
     public static void main(String[] args) {
-        // write your code here
         // base if, else if, else example:
         int someNumber = 5;
         if(someNumber == 5) {
@@ -15,8 +14,5 @@ public class Conditionals {
         else {
             System.out.println("The number was not 5 or 6");
         }
-
-        // this is what we know and love, use it!
-
     }
 }
